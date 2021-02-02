@@ -165,7 +165,7 @@ Resources for Web Designers, Developers, and Creators
 * [freezeframe.js](http://ctrl-freaks.github.io/freezeframe.js/)
 * [tonejs](https://tonejs.github.io/)
 * [gridjs](https://gridjs.io/)
-* [gridjs](http://stickyjs.com/)
+* [stickyjs](http://stickyjs.com/)
 * [greensock](https://greensock.com/)
 * [lax.js](https://alexfox.dev/lax.js/)
 * [scenejs](https://github.com/daybrush/scenejs)
