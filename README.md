@@ -263,9 +263,6 @@ Resources for Web Designers, Developers, and Creators
 * [github pages](https://pages.github.com/)
 * [netlify](https://www.netlify.com/)
 * [000webhost](https://www.000webhost.com/migrate?static=true)
-* [randomuser](https://randomuser.me/)
-* [randomuser](https://randomuser.me/)
-* [randomuser](https://randomuser.me/)
 * [cloudinary](https://cloudinary.com/console)
 
 ---
