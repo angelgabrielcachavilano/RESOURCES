@@ -150,7 +150,6 @@ Resources for Web Designers, Developers, and Creators
 * [particles.js](https://github.com/VincentGarreau/particles.js/blob/master/demo/js/app.js)
 * [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 * [p5js](https://p5js.org/)
-* [tingle-js](https://jagonzalez.org/tingle-js-libreria-de-javascript-puro-para-crear-ventanas-modales-minimalistas/?fbclid=IwAR31KO-6lx6cOilI76sKj1Rcw2-3MfUNUFjiuvkA_kRr2hOUXFjcJqP0jgc)
 * [jsbin](https://jsbin.com/?html,css,output)
 * [morrisjs](https://morrisjs.github.io/morris.js/)
 * [tippyjs](https://atomiks.github.io/tippyjs/)
