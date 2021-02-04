@@ -36,6 +36,15 @@ Resources for Web Designers, Developers, and Creators
 * [boxicons](https://boxicons.com/)
 * [iconpharm](https://iconpharm.com/web-app/new-icons/all)
 * [iconpharm](https://www.vectorlogo.zone/)
+* [polaris-icons](https://polaris-icons.shopify.com/)
+* [material.io](https://material.io/resources/icons/?style=baseline)
+* [iconscout](https://iconscout.com/free-icons)
+* [iconshock](https://www.iconshock.com/)
+* [orioniconlibrary](https://orioniconlibrary.com/all-icons)
+* [smashicons](https://smashicons.com/)
+* [pixellove](https://www.pixellove.com/free-icons/line/simple/)
+* [iconpharm](https://roundicons.com/vector-free-icons/)
+* [pngtree](https://pngtree.com/so/icons)
 
 ---
 
@@ -103,6 +112,9 @@ Resources for Web Designers, Developers, and Creators
 * [tinypng](https://tinypng.com/)
 * [webgradients](https://www.pexels.com/discover/)
 * [fixpicture - Resize & Convert Images](https://www.fixpicture.org/index.php?LANG=es)
+* [pngtree](https://pngtree.com/free-graphic-design)
+* [vecteezy](https://es.vecteezy.com/)
+* [pixabay](https://pixabay.com/photos/)
 
 ---
 
@@ -114,12 +126,20 @@ Resources for Web Designers, Developers, and Creators
 * [drawkit](https://www.drawkit.io/)
 * [humaaans](https://www.humaaans.com/)
 * [opendoodles](https://www.opendoodles.com/)
-* [freepik](https://www.freepik.com/)
+* [freepik.com](https://www.freepik.com/)
 * [icons8](https://icons8.com/illustrations)
 * [manypixels](https://www.manypixels.co/gallery)
 * [lukaszadam](https://lukaszadam.com/illustrations)
 * [illlustrations](https://illlustrations.co/)
 * [iradesign](https://iradesign.io/)
+* [freepik.es](https://www.freepik.es/)
+* [glazestock](https://www.glazestock.com/)
+* [iconscout](https://iconscout.com/illustrations)
+* [pngtree](https://pngtree.com/illustration-design)
+* [openpeeps](https://www.openpeeps.com/)
+* [interfacer](https://interfacer.xyz/)
+* [icons8](https://icons8.com/illustrations?ref=uistore.design)
+* [pixabay](https://pixabay.com/illustrations/)
 
 ---
 
@@ -200,6 +220,7 @@ Resources for Web Designers, Developers, and Creators
 * [isoflat](https://isoflat.com/)
 * [amritpaldesign](https://amritpaldesign.com/toy-faces)
 * [dribbble](https://dribbble.com/shots/3421366-shapes-pack)
+* [iconscout](https://iconscout.com/3ds)
 
 ---
 
@@ -212,6 +233,7 @@ Resources for Web Designers, Developers, and Creators
 * [smooth.ie - svg-wavey-transitions-between-sections](https://smooth.ie/blogs/news/svg-wavey-transitions-between-sections)
 * [bennettfeely - clippy](https://bennettfeely.com/clippy/)
 * [cssmatic](https://www.cssmatic.com/box-shadow)
+* [glassmorphism](https://glassmorphism.com/)
 
 ---
 
@@ -243,6 +265,14 @@ Resources for Web Designers, Developers, and Creators
 * [mapbox](https://www.mapbox.com/)
 * [jvectormap](https://jvectormap.com/)
 * [google developers - maps plataform](https://developers.google.com/maps?hl=es_419)
+* [telize](www.telize.com)
+* [apility](www.apility.io)
+* [geoplugin](www.geoplugin.com)
+* [ipwhois](www.ipwhois.io)
+* [ipregistry](www.ipregistry.co)
+* [weatherbit](www.weatherbit.io)
+* [bigdatacloud](bigdatacloud.com)
+* [ipgeolocation](ipgeolocation.io)
 
 ---
 
