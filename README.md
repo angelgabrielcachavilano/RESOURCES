@@ -1,7 +1,11 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 
-# resources
+# RESOURCES
+
+---
+
+# Resource List
 
 ---
 
@@ -35,7 +39,7 @@ Resources for Web Designers, Developers, and Creators
 * [simpleicons](https://simpleicons.org/)
 * [boxicons](https://boxicons.com/)
 * [iconpharm](https://iconpharm.com/web-app/new-icons/all)
-* [iconpharm](https://www.vectorlogo.zone/)
+* [vectorlogo](https://www.vectorlogo.zone/)
 * [polaris-icons](https://polaris-icons.shopify.com/)
 * [material.io](https://material.io/resources/icons/?style=baseline)
 * [iconscout](https://iconscout.com/free-icons)
@@ -45,6 +49,13 @@ Resources for Web Designers, Developers, and Creators
 * [pixellove](https://www.pixellove.com/free-icons/line/simple/)
 * [iconpharm](https://roundicons.com/vector-free-icons/)
 * [pngtree](https://pngtree.com/so/icons)
+* [icons8](https://icons8.com/)
+* [iconduck](https://iconduck.com/)
+* [heroicons](https://heroicons.dev/)
+
+---
+
+## Icon Generator
 
 ---
 
@@ -265,14 +276,14 @@ Resources for Web Designers, Developers, and Creators
 * [mapbox](https://www.mapbox.com/)
 * [jvectormap](https://jvectormap.com/)
 * [google developers - maps plataform](https://developers.google.com/maps?hl=es_419)
-* [telize](www.telize.com)
-* [apility](www.apility.io)
-* [geoplugin](www.geoplugin.com)
-* [ipwhois](www.ipwhois.io)
-* [ipregistry](www.ipregistry.co)
-* [weatherbit](www.weatherbit.io)
-* [bigdatacloud](bigdatacloud.com)
-* [ipgeolocation](ipgeolocation.io)
+* [telize](www.telize.com)                  -- API GEOLOCATION
+* [apility](www.apility.io)                 -- API GEOLOCATION
+* [geoplugin](www.geoplugin.com)            -- API GEOLOCATION
+* [ipwhois](www.ipwhois.io)                 -- API GEOLOCATION
+* [ipregistry](www.ipregistry.co)           -- API GEOLOCATION
+* [weatherbit](www.weatherbit.io)           -- API GEOLOCATION
+* [bigdatacloud](bigdatacloud.com)          -- API GEOLOCATION
+* [ipgeolocation](ipgeolocation.io)         -- API GEOLOCATION
 
 ---
 
